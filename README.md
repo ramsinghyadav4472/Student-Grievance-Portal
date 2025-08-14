@@ -69,18 +69,14 @@ The app includes the following screens:
 ## 🔐 Demo Credentials
 
 ### Student Login
-- **Email**: `john.doe@university.edu`
+- **Email**: `ramsinghyadav12@university.edu`
 - **Password**: `password123`
 
 ### Admin Login
-- **Email**: `admin@university.edu`
+- **Email**: `rsyadav.admin@university.edu`
 - **Password**: `password123`
 
-### Additional Student Accounts
-- `jane.smith@university.edu` / `password123`
-- `mike.johnson@university.edu` / `password123`
-- `sarah.wilson@university.edu` / `password123`
-- `david.brown@university.edu` / `password123`
+
 
 ## 📁 Project Structure
 
